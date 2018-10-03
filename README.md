@@ -1,2 +1,2 @@
 # creative-lab-2
-Kaden and Morgan's DatePlanner App using the Foursquare and Google Maps API.
+Kaden and Morgan's DatePlanner App using the Foursquare, Google Maps, and Open Weather APIs.
